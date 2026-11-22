@@ -22,9 +22,7 @@ Focused on Python, Flask, Computer Vision, and data-driven systems — especiall
 
 ### 🌱 What I'm Into
 - Computer Vision & Human Pose Estimation 
-- Backend System Design & APIs  
-- Data Analysis from Video & Sensors  
-- Continuous Learning in ML & AI  
+- Backend System Design & APIs
 
 ---
 
